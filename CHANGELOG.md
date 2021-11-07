@@ -6,6 +6,7 @@
 * #86 Read barcodes containing null characters
 * #84 Barcode orientation
 * #46 Include quality
+* #40 Location of zbar shared library from environment variable
 
 ### v0.1.8
 
